@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index-Ojvld5h0.js";const n={setup(){return{}}};function r(c,s,a,p,_,u){return t(),o("div",null," 404 PAGE NOT FOUND ")}const f=e(n,[["render",r]]);export{f as default};

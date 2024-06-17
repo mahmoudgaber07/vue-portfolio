@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as o,a as t}from"./index-Ojvld5h0.js";const a={setup(){return{}}},c={class:"loading"},n=t("span",{class:"loader"},"LOADING",-1),r=[n];function _(d,p,i,l,f,u){return e(),o("div",c,r)}const m=s(a,[["render",_]]);export{m as L};

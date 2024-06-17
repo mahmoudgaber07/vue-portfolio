@@ -1,0 +1,11 @@
+.footer{
+    .social{
+        .btn-outline-light{
+            &:hover{
+                svg{
+                    color: $dark;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+.navbar{
+    width: 100%;
+    z-index: 9;
+    .nav-item{
+        .nav-link{
+            color: $white;
+            border-bottom: 1px solid transparent;
+            transition: all 0.5s ease-in-out;
+            &.active{
+                color: $white;
+                border-bottom: 1px solid $white;
+            }
+            &:hover{
+                border-bottom: 1px solid $white;
+            }
+        }
+    }
+    .navbar-brand{
+        color: $white;
+    }
+}

@@ -58,7 +58,14 @@ vue-portfolio/
 ├── package.json
 ├── vue.config.js
 
-# project features
+# Project goal
+about: skills ,experince live projects and reviews
+e-commerce: using fake api show products, see project details add project to cart , add same item more times avalible and delete item from cart and empty cart
+todo: add todo list ,edit title of todo and delete todo from list
+counter: start from 0 and click plus number increase 1 and click minus decrease number 1 
+Not Found 404 page.
+
+# Project features
 Vue 3(composition api) in vite ,components, props, computed, composables ,event handel , lifecycle hooks , ref, reactive, components, router axios api and vuex state management
 
 # Ui Tools
